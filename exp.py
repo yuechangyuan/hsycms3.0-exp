@@ -2,6 +2,8 @@ import requests
 
 
 '''
+open hsycms/login/index.html and login in as admin
+
 after logged in as admin 
 '''
 
